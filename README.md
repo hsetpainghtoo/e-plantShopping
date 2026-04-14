@@ -1,4 +1,4 @@
-# Paradise Nursery
+# Paradise Nursery – e-PlantShopping
 
 A modern, user-friendly web application for browsing, selecting, and purchasing a variety of plants online. Built with React and Redux, Paradise Nursery offers a seamless shopping experience with categorized plant listings, a dynamic cart, and a clean, responsive design.
 
